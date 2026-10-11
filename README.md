@@ -268,7 +268,6 @@ Let me know if you'd like to include categories (e.g. Text Generation, Audio Too
 - [Synthflow AI](https://somi.ai/products/synthflow-ai) - Create human-like AI voice agents with no-code. [![link]](https://synthflow.ai/)
 - [Command A](https://somi.ai/products/command-ai) -AI-powered user assistance. [![link]](https://www.command.ai/)
 - [ZipChat AI](https://somi.ai/products/zip-chat-ai) - AI agent for e-commerce. [![link]](https://zipchat.ai/)
-
   
 ### SEO Tools
 
@@ -286,6 +285,8 @@ Let me know if you'd like to include categories (e.g. Text Generation, Audio Too
 
 
 ### Human Resources
+- [AI at Work](https://aiatwork-two.vercel.app) - Guides on using AI tools for careers and workplace productivity
+
 
 
 - [Careerflow.ai](https://somi.ai/products/careerflow-ai) - Simplify your career journey with our career copilot. [![link]](https://careerflow.ai/premium?via=somi-ai)
