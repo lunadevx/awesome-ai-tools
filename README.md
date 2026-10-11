@@ -269,6 +269,7 @@ Let me know if you'd like to include categories (e.g. Text Generation, Audio Too
 - [Command A](https://somi.ai/products/command-ai) -AI-powered user assistance. [![link]](https://www.command.ai/)
 - [ZipChat AI](https://somi.ai/products/zip-chat-ai) - AI agent for e-commerce. [![link]](https://zipchat.ai/)
   
+
 ### SEO Tools
 
 
